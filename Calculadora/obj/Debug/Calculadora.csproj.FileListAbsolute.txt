@@ -1,0 +1,16 @@
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\CalculatorFrontend.g.cs
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\App.g.cs
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora_MarkupCompile.cache
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora_MarkupCompile.lref
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\CalculatorFrontend.baml
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.g.resources
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Jhojan Toro\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
